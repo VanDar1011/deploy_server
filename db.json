@@ -2,11 +2,53 @@
   "todo": [
     {
       "id":1,
-      "name":"việc 1"
+      "question": "Thủ đô của Việt Nam là gì ?",
+      "answer":["A. Thành phố Hồ Chí Minh","B. Đà Nẵng","C. Hà Nội","D. Huế"],
+      "indexCorrect":2
+
     },
      {
       "id":2,
-      "name":"việc 2"
+      "question": "Quốc gia nào lớn nhất trên thế giới theo diện tích ?",
+      "answer":["A. Trung Quốc","B. Canada","C. Nga","D. Hoa Kỳ"],
+      "indexCorrect":2
+    },
+    {
+      "id":3,
+      "question": "Ai là tác giả của tác phẩm Truyện Kiều ?",
+      "answer":["A. Nguyễn Du","B. Hồ Xuân Hương","C. Xuân Diệu","D. Tố Hữu"],
+      "indexCorrect":0
+    },
+    {
+      "id":4,
+      "question": "Nguyên tố hóa học nào có ký hiệu là O ?",
+      "answer":["A. Vàng","A. Vàng","C. Sắt","D. Bạc"],
+      "indexCorrect":1
+    },
+    {
+      "id":5,
+      "question": "Núi Everest nằm ở dãy núi nào ?",
+      "answer":["A. Himalaya","B. Alps","C. Rocky","D. Andes"],
+      "indexCorrect":0
+
+    },
+     {
+      "id":6,
+      "question": "Biển nào lớn nhất trên thế giới ?",
+      "answer":["A. Biển Đông","B. Biển Đỏ","C. Biển Địa Trung Hải","D. Biển Philippines"],
+      "indexCorrect":3
+    },
+    {
+      "id":7,
+      "question": "Ai là người phát minh ra bóng đèn điện ?",
+      "answer":["A. Alexander Graham Bell","B. Nikola Tesla","C. Thomas Edison","D. Isaac Newton"],
+      "indexCorrect":2
+    },
+    {
+      "id":8,
+      "question": "Đơn vị đo cường độ dòng điện là gì ?",
+      "answer":["A. Volt","B. Watt,","C. Ohm","D. Ampere"],
+      "indexCorrect":1
     }
       
     ]
