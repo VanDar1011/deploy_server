@@ -22,7 +22,7 @@
     {
       "id":4,
       "question": "Nguyên tố hóa học nào có ký hiệu là O ?",
-      "answer":["A. Vàng","A. Vàng","C. Sắt","D. Bạc"],
+      "answer":["A. Vàng","B. Oxy","C. Sắt","D. Bạc"],
       "indexCorrect":1
     },
     {
@@ -48,7 +48,7 @@
       "id":8,
       "question": "Đơn vị đo cường độ dòng điện là gì ?",
       "answer":["A. Volt","B. Watt,","C. Ohm","D. Ampere"],
-      "indexCorrect":1
+      "indexCorrect":3
     }
       
     ]
